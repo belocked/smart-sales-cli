@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "report_id": "R001",
+    "customer_id": "C001",
+    "activity_date": "2026-06-09",
+    "content": "제품 소개 미팅 진행",
+    "status": "DRAFT"
+  },
+  {
+    "report_id": "R002",
+    "customer_id": "C001",
+    "activity_date": "2026-06-10",
+    "content": "견적서 전달 및 기술 검토",
+    "status": "SUBMITTED"
+  },
+  {
+    "report_id": "R003",
+    "customer_id": "C002",
+    "activity_date": "2026-06-11",
+    "content": "신규 프로젝트 협의",
+    "status": "APPROVED"
+  },
+  {
+    "report_id": "R004",
+    "customer_id": "C003",
+    "activity_date": "2026-06-12",
+    "content": "계약 조건 협상",
+    "status": "REJECTED"
+  }
+]
