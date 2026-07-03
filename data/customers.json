@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "customer_id": "C001",
+    "customer_name": "㈜한국전자",
+    "manager_name": "김철수",
+    "email": "kim@koreaelec.com"
+  },
+  {
+    "customer_id": "C002",
+    "customer_name": "㈜글로벌소프트",
+    "manager_name": "이영희",
+    "email": "lee@globalsoft.com"
+  },
+  {
+    "customer_id": "C003",
+    "customer_name": "대한물류",
+    "manager_name": "박민수",
+    "email": "park@dhl.co.kr"
+  }
+]
